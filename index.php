@@ -1,6 +1,3 @@
-# Carpetas
- Crea varias carpetas con iconos + descripción
-
  <table width="100%" border="0" cellpadding="4" cellspacing="4">
   <tr>
     <td width="50%" rowspan="2" align="center" valign="middle"><img src="img/Black Folder Terminal-256.png" width="256" height="256" /></td>
