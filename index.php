@@ -1,6 +1,6 @@
 <table width="100%" border="0" cellpadding="4" cellspacing="4">
   <tr>
-    <td width="50%" rowspan="2" align="center" valign="middle"><img src="img/Black Folder Terminal-256.png" width="256" height="256" /></td>
+    <td width="50%" rowspan="2" align="center" valign="middle"><img src="img/Black Folder Terminal-256.png" width="100%" height="100%" /></td>
     <td width="50%"><h1>#Carpetas</h1></td>
   </tr>
   <tr>
